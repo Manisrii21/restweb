@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c73c1c3c-e9f9-43b5-be14-04ea00c808df)# Ex.07 Restaurant Website
+# Ex.07 Restaurant Website
 ## Date:03-11-2024
 
 ## AIM:
